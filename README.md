@@ -2,7 +2,7 @@
 
 **SAP Fieldglass Senior Analyst & Test Automation Engineer @ Accenture**
 
-**4.5+ years** of experience building scalable Contingent Workforce solutions and automation frameworks.
+**4.6+ years** of experience building scalable Contingent Workforce solutions and automation frameworks.
 
 ---
 
@@ -20,7 +20,7 @@
 ---
 
 ### 📌 Quick Links
-- **[Download Resume](https://drive.google.com/uc?id=1nwpgWZZVnRCLA9_yJUSOyrz0rYpygbRZ&export=download)**
+- **[Download Resume](https://drive.google.com/file/d/1-NGWjpkF00hoo8XY3V7Q4zxqAYQkM9zU/view?usp=drivesdk)**
 - **[Live Portfolio](https://gnvsaipavan20.github.io)**
 - **[LinkedIn](https://linkedin.com/in/naga-venkata-sai-pavan-gummadi-503214150)**
 
