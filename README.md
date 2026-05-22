@@ -1,96 +1,34 @@
-<div align="center">
-  <h1>Hi there, I'm Naga Venkata Sai Pavan Gummadi 👋</h1>
-  
-  <h3>SAP Fieldglass Senior Analyst & Test Automation Engineer @ Accenture</h3>
-  
-  <p>
-    <strong>4.5+ years of experience</strong> building scalable Contingent Workforce solutions
-  </p>
+# Hi there, I'm Naga Venkata Sai Pavan Gummadi 👋
 
-  <a href="https://drive.google.com/uc?id=1nwpgWZZVnRCLA9_yJUSOyrz0rYpygbRZ&export=download">
-    <img src="https://img.shields.io/badge/Download_Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume">
-  </a>
-  
-  <a href="https://linkedin.com/in/naga-venkata-sai-pavan-gummadi-503214150">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
+**SAP Fieldglass Senior Analyst & Test Automation Engineer @ Accenture**
 
-  <img src="https://img.shields.io/badge/Python-Learning-blue?style=for-the-badge" alt="Python">
-  <img src="https://img.shields.io/badge/AI_Testing-Exploring-purple?style=for-the-badge" alt="AI">
-</div>
+**4.5+ years** of experience building scalable Contingent Workforce solutions and automation frameworks.
 
 ---
 
-### 👨‍💼 About Me
+### 🚀 What I'm Working On
+- Building a modern **Python + Playwright** Test Automation Framework
+- Exploring **AI-Powered Test Case Generation** using LLMs
+- Passionate about **API Testing** & **CI/CD** optimization
 
-SAP Fieldglass Senior Analyst with **4.5+ years** at **Accenture**, specializing in end-to-end **Contingent Workforce Management** for global clients like **Shell India**.
-
-I excel in configuration, integrations, release management, and test automation. Passionately upskilling in **Python**, **Playwright**, **DevOps (CI/CD)**, and **AI-powered testing** to deliver modern quality engineering solutions.
-
----
-
-### 💼 Professional Experience
-
-**Accenture Solutions Pvt. Ltd.** — **SAP Fieldglass Senior Analyst**  
-**Oct 2021 – Present** | **Shell India**
-
-- Led supplier onboarding, RBAC, approval workflows, and Worker/SOW template configuration
-- Designed rate cards, multi-currency billing, and complex approval processes
-- Owned Azure DevOps CI/CD pipelines for major releases (including SAP Fieldglass November release)
-- Reduced **manual testing by 60%** and **post-release defects by 30%** using Tricentis TOSCA
-- Achieved **25% MTTR reduction** via ServiceNow + Azure DevOps integration
-- Mentored junior QA engineers on automation and Agile delivery
+### 🛠️ Technical Skills
+- **Automation**: Tricentis TOSCA, Playwright, Selenium, REST Assured
+- **Languages**: Python, Java (Basics)
+- **Tools**: Azure DevOps, JIRA, Git, Postman
+- **Domain**: SAP Fieldglass, Workday (Foundational)
 
 ---
 
-### 🚀 Key Projects
-
-**SAP Fieldglass DevOps & Configuration – Shell India**
-- End-to-end configuration, ERP integrations, inbound/outbound file processing, and release management
-- Automated regression testing integrated with Azure DevOps CI/CD
-
-**CICA Insurance Testing Projects**
-- API validation, ETL testing, Selenium WebDriver, and SQL automation (30% effort reduction)
+### 📌 Quick Links
+- **[Download Resume](https://drive.google.com/uc?id=1nwpgWZZVnRCLA9_yJUSOyrz0rYpygbRZ&export=download)**
+- **[Live Portfolio](https://gnvsaipavan20.github.io)**
+- **[LinkedIn](https://linkedin.com/in/naga-venkata-sai-pavan-gummadi-503214150)**
 
 ---
 
-### 🛠️ Skills & Technologies
-
-**SAP Fieldglass**  
-Configuration • Supplier Onboarding • RBAC • Workflows • Rate Cards • Integrations • Release Management
-
-**Automation**  
-Tricentis TOSCA (L1/L2) • REST Assured • SoapUI • Postman • API Testing • SQL
-
-**DevOps**  
-Azure DevOps • CI/CD Pipelines • ServiceNow
-
-**Programming & Emerging**  
-Python (in progress) • Java (Basics) • Generative AI (Level 1 & 2)
+### About Me
+Results-driven Test Automation Engineer with strong experience in SAP Fieldglass implementations and building efficient automation solutions. Currently focused on modernizing testing practices with Python, Playwright, and AI.
 
 ---
 
-### 📜 Certifications
-
-- Tricentis TOSCA Automation Engineer L1, Specialist L1 & L2, Test Design Specialist L1 & L2
-- Generative AI – Level 1 & Level 2
-- Microsoft Certified: Azure Security Engineer Associate
-
----
-
-### 📫 Let's Connect
-
-- **Email**: gnvsaipavan20@gmail.com
-- **Phone**: +91 7013845677
-- **Resume**: [Download PDF](https://drive.google.com/uc?id=1nwpgWZZVnRCLA9_yJUSOyrz0rYpygbRZ&export=download)
-- **Location**: Bengaluru, India
-
----
-
-*Actively learning Python, Playwright & AI Testing | Open to SDET / Test Automation opportunities in Product Companies*
-
----
-
-<div align="center">
-  <i>Building the future of intelligent quality engineering, one test at a time.</i>
-</div>
+*Open to new opportunities in SDET / Test Automation roles.*
